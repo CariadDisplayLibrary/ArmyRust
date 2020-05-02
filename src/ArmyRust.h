@@ -1,7 +1,7 @@
 #ifndef _ARMYRUST_H
 #define _ARMYRUST_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t ArmyRust10[];
